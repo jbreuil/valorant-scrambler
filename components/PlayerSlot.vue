@@ -36,10 +36,10 @@ export default {
   },
   computed: {
     agentWebp() {
-      return `/icons/agents/${this.agent}.webp`
+      return `${this.$router.options.base}icons/agents/${this.agent}.webp`
     },
     agentPng() {
-      return `/icons/agents/${this.agent}.png`
+      return `${this.$router.options.base}icons/agents/${this.agent}.png`
     },
   },
 }

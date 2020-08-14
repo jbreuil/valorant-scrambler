@@ -8,12 +8,12 @@
               <picture class="mr-4">
                 <source
                   class="h-10 w-10"
-                  srcset="/icon.webp"
+                  srcset="~static/icon.webp"
                   type="image/webp"
                 />
                 <img
                   class="h-10 w-10"
-                  src="/icon.png"
+                  src="~static/icon.png"
                   alt="valorant scrambler logo"
                 />
               </picture>
