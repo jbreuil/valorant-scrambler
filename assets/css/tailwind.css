@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import '~assets/css/fonts';
+
+body {
+  background-image: url('../../static/background/background.webp');
+}

@@ -1,0 +1,17 @@
+{
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "semi": false,
+  "singleQuote": true,
+  "vue/max-attributes-per-line": [
+    "error",
+    {
+      "singleline": 2,
+      "multiline": {
+        "max": 1,
+        "allowFirstLine": false
+      }
+    }
+  ]
+}
