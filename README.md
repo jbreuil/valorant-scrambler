@@ -1,4 +1,11 @@
+
 # valorant-scrambler
+
+ - Randomize teams with customizable players name
+ - Assign a random agent to each player for all random game mode (reroll possible)
+ - Random map with reroll button
+
+[Live Demo](https://jbreuil.github.io/valorant-scrambler/)
 
 ## Build Setup
 
